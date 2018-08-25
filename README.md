@@ -1,12 +1,12 @@
 # mybookmark
 
 * 我的書籤 - Google 試算表 - https://goo.gl/SzPvBN
-* 程式 - MyBookmark - https://goo.gl/BXNj7E
+* Google Apps Script程式 - https://goo.gl/BXNj7E
 
 # 摘要
 
-* 用Google Spreadsheet儲存書籤資料
-* Google Spreadsheet的指令碼設計HTML介面，可輸入書籤資料
+* 用Google試算表儲存書籤資料
+* 用Google Apps Script設計HTML介面，可輸入書籤資料並存至試算表
 * 提供一個bookmarklet可以呼叫HTML介面
 
 # Install
