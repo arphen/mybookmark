@@ -7,4 +7,7 @@
 
 # Usage
 1. 點選bookmarklet
-2. 
+![alt text](https://raw.githubusercontent.com/arphen/mybookmark/master/bk.png)
+
+2. 書籤存放如下
+
