@@ -19,5 +19,5 @@
 
 2. 書籤存放如下
 
-![alt text](https://raw.githubusercontent.com/arphen/mybookmark/master/bookmark.png)
+![alt text](https://raw.githubusercontent.com/arphen/mybookmark/blob/master/img/bookmark.png)
 
