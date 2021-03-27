@@ -6,3 +6,5 @@ https://script.google.com/macros/s/AKfycbzy9x6QwQdxP4z1OMB_Dc3fllQVQiGcGiNJHAsZX
 * MybookmarkAPI位置：
 https://script.google.com/d/1MhCE1shzqpxjgZBGN6nHd0jBmIRJvMadLjWIxe33uSyrBFTwwP5ZNOkW/edit
 
+![alt text](https://raw.githubusercontent.com/arphen/mybookmark/master/img/deploy_as_webapp1.png)
+
