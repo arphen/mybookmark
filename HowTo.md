@@ -10,7 +10,7 @@ https://script.google.com/d/1MhCE1shzqpxjgZBGN6nHd0jBmIRJvMadLjWIxe33uSyrBFTwwP5
 
 ![alt text](https://raw.githubusercontent.com/arphen/mybookmark/master/img/deploy_as_webapp1.png)
 
-* 程式的網址如圖示：
+* 程式的網址如圖示：(每次重新發布，網址會改變，所以 bookmarklet 的呼叫網址也必須配合變動)
 
 ![alt text](https://raw.githubusercontent.com/arphen/mybookmark/master/img/deploy_as_webapp2.png)
 
