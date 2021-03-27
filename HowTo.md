@@ -1,9 +1,7 @@
 # 程式原理：
 
-1. bookmarklet 呼叫 [我的書籤]程式：
+1. 透過 bookmarklet 呼叫 [我的書籤]程式：
 https://script.google.com/macros/s/AKfycbzy9x6QwQdxP4z1OMB_Dc3fllQVQiGcGiNJHAsZXvp35914yjE/exec?action=addbookmark&title=&url=&note=
-
-* 
 
 * [我的書籤]位置：
 https://script.google.com/home/projects/1j_uRfTDgNNnky2hab-VxIXc7eJ68aMSM7SzjUXiM_AxJXhWLzauLkR7j/edit
