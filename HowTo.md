@@ -1,3 +1,8 @@
-程式原理：
-＊　bookmarklet 呼叫 API: 
+# 程式原理：
+
+1. bookmarklet 呼叫 MybookmarkAPI：
+https://script.google.com/macros/s/AKfycbzy9x6QwQdxP4z1OMB_Dc3fllQVQiGcGiNJHAsZXvp35914yjE/exec?action=addbookmark&title=&url=&note=
+
+* MybookmarkAPI位置：
+https://script.google.com/d/1MhCE1shzqpxjgZBGN6nHd0jBmIRJvMadLjWIxe33uSyrBFTwwP5ZNOkW/edit
 
